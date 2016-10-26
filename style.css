@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgrey;
+    padding-top: 65px;
+}
+.jumbotron {
+    margin-top: 65px;
+
+}
+.brandimg {
+    width: 60px !important;
+    height: 60px !important;
+    border-radius: 30%;
+}
+.center {
+    text-align: center;
+}
+
+.text-big {
+    font-size: 300%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-medium {
+    height: 200px;
+}
+
+.container {
+    max-width: 800px;
+    color: grey;
+    font-family: sans-serif;
+    margin: 0 auto;
+	
+	padding-left:20px;
+	padding-right:20px;
+}
+.header {
+    height: 50px;
+    background-color: #0000ff;
+}
+.thumbnail {
+    padding: 0px;
+    padding: 0px 10px 10px 10px;
+}
