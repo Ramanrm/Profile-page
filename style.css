@@ -5,7 +5,6 @@ body {
 }
 .jumbotron {
     margin-top: 65px;
-
 }
 .brandimg {
     width: 60px !important;
@@ -44,4 +43,9 @@ body {
 .thumbnail {
     padding: 0px;
     padding: 0px 10px 10px 10px;
+}
+.secHead{
+    text-align: center;
+    color: white;
+    background-color: #333;
 }
