@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgrey;
+    padding-top: 65px;
+}
+
+.jumbotron {
+    margin-top: 65px;
+}
+.brandimg {
+    width: 60px !important;
+    height: 60px !important;
+    padding: 5px !important;
+}
+.navbar-brand {
+    margin-left: 0px !important;
+}
+.center {
+    text-align: center;
+}
+
+.text-big {
+    font-size: 300%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-medium {
+    height: 200px;
+}
+
+.container {
+    max-width: 800px;
+    color: grey;
+    font-family: sans-serif;
+    margin: 0 auto;
+	
+	padding-left:20px;
+	padding-right:20px;
+}
+.header {
+    height: 50px;
+    background-color: #0000ff;
+}
+
+.row {
+    margin-top: 5%;
+}
+.nopadding {
+    padding: 0% !important;
+}
+.carousel-inner > .item > img {
+    width: 350px !important;
+    height: 350px !important;
+}
+.col-md-offset-1 {
+    margin-left: 4%;
+}
+.row {
+    display: flex;
+}
+.panel {
+    flex: 1;
+}
+div#hobbies {
+    margin-right: 4%;
+}
+div#about {
+    margin-left: 4%;
+}
